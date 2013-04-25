@@ -8,7 +8,7 @@ Discrete distribution
 #include <iostream>
 #include <math.h>
 #include <cassert>
-#include "librf/types.h"
+#include <shogun/lib/external/librf/types.h>
 
 using namespace std;
 

@@ -19,7 +19,7 @@
 
 #include <vector>
 #include <iostream>
-#include "librf/types.h"
+#include <shogun/lib/external/librf/types.h>
 
 using namespace std;
 

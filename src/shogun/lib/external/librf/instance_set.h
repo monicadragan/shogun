@@ -11,7 +11,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
-#include "librf/discrete_dist.h"
+#include <shogun/lib/external/librf/discrete_dist.h>
 
 using namespace std;
 

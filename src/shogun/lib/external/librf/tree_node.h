@@ -5,7 +5,7 @@
  */
 
 #ifndef _TREE_NODE_H_
-#include "librf/types.h"
+#include <shogun/lib/external/librf/types.h>
 #include <fstream>
 using namespace std;
 

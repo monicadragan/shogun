@@ -1,12 +1,12 @@
-#include "librf/instance_set.h"
+#include <shogun/lib/external/librf/instance_set.h>
 #include <fstream>
 #include <string>
 #include <iostream>
 #include <sstream>
 #include <float.h>
-#include "librf/weights.h"
-#include "librf/types.h"
-#include "librf/stringutils.h"
+#include <shogun/lib/external/librf/weights.h>
+#include <shogun/lib/external/librf/types.h>
+#include <shogun/lib/external/librf/stringutils.h>
 
 using namespace std;
 

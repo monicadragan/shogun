@@ -4,7 +4,7 @@
  *
  */
 #include <cassert>
-#include "librf/tree_node.h"
+#include <shogun/lib/external/librf/tree_node.h>
 namespace librf {
 void tree_node::write(ostream& o) const {
   // we shouldn't be saving any other kind of node

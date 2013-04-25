@@ -8,11 +8,11 @@
  * last_node +2 (right)
  * ncur+=2
  */
-#include "librf/tree.h"
-#include "librf/instance_set.h"
-#include "librf/discrete_dist.h"
-#include "librf/weights.h"
-#include "librf/utils.h"
+#include <shogun/lib/external/librf/tree.h>
+#include <shogun/lib/external/librf/instance_set.h>
+#include <shogun/lib/external/librf/discrete_dist.h>
+#include <shogun/lib/external/librf/weights.h>
+#include <shogun/lib/external/librf/utils.h>
 #include <float.h>
 #include <deque>
 #include <set>

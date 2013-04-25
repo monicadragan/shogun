@@ -1,4 +1,4 @@
-#include "librf/discrete_dist.h"
+#include <shogun/lib/external/librf/discrete_dist.h>
 #include <math.h>
 namespace librf {
 

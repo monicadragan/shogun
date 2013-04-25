@@ -1,4 +1,4 @@
-#include "librf/weights.h"
+#include <shogun/lib/external/librf/weights.h>
 using namespace librf;
 
 int main(int argc, char* argv[]) {

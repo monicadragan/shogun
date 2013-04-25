@@ -7,8 +7,8 @@
 
 #ifndef _TREE_H_
 #define _TREE_H_
-#include "librf/types.h"
-#include "librf/tree_node.h"
+#include <shogun/lib/external/librf/types.h>
+#include <shogun/lib/external/librf/tree_node.h>
 #include <iostream>
 #include <vector>
 #include <set>
